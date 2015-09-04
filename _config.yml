@@ -10,3 +10,5 @@ github_username:  maneto
 
 # Build settings
 markdown: kramdown
+
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
