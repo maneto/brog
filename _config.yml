@@ -3,7 +3,7 @@ title: NetoAtaides.com
 email: neto.ataides@gmail.com
 description: #> # this means to ignore newlines until "baseurl:"
   Ideias, boas ou não. Pensamentos, malucos ou não. Sentimentos, verdadeiros ou não. Momentos, marca  ntes ou não. Pessoas, indispensáveis ou não.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "../brog/" # the subpath of your site, e.g. /blog/
 url: "http://netoataides.com" # the base hostname & protocol for your site
 twitter_username: maneto
 github_username:  maneto
